@@ -1,7 +1,7 @@
 {
   "id": "cba1796c-ccac-472c-b2db-ccd488bf7023",
   "user": "thoaionline",
-  "host": "172.16.12.1",
+  "host": "localhost",
   "port": 3569,
   "secret": "$38Uqb0p",
   "permissions": {
